@@ -1,6 +1,5 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: white;
 }
 
 h2 {
@@ -27,22 +26,21 @@ p {
 
 .bulgaria:hover {
     text-decoration: none;
-    color: white;
 }
 
 .fa-github {
     position: absolute;
     left: 50%;
-    top: 10%;
-    transform: translate(-50%,-50%);
+    top: 40%;
+    transform: translate(-50%, -50%);
     color: white;
 }
 
 .fa-envelope {
     position: absolute;
     left: 50%;
-    top: 21%;
-    transform: translate(-50%,-50%);
+    top: 55%;
+    transform: translate(-50%, -50%);
     color: white;
 }
 .githubtext {
@@ -51,8 +49,8 @@ p {
     text-decoration: none;
     position: absolute;
     left: 50%;
-    top: 16%;
-    transform: translate(-50%,-50%);
+    top: 46%;
+    transform: translate(-50%, -50%);
     color: white;
 }
 .emailtext {
@@ -61,11 +59,23 @@ p {
     text-decoration: none;
     position: absolute;
     left: 50%;
-    top: 26%;
-    transform: translate(-50%,-50%);
+    top: 60%;
+    transform: translate(-50%, -50%);
     color: white;
 }
 
 .emojiemail:hover, .emojigit:hover {
     color: #0e3344;
+    text-decoration: none;
+}
+
+img {
+    position: relative;
+    top: 270px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    border-radius: 50%;
+    border: white;
 }
