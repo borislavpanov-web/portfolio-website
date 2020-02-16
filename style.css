@@ -356,7 +356,7 @@
  }
  h2,
  .h2 {
-  font-size:3rem
+  font-size: 10px
  }
  h3,
  .h3 {
@@ -10156,5 +10156,9 @@
  }
  .popover-title {
   border-bottom:none
+ }
+
+ h2 {
+  font-size: 4220px;
  }
  
