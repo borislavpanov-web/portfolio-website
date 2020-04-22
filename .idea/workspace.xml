@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a841c8c3-02d3-482a-8204-3dad47e2837e" name="Default Changelist" comment="fixed bugs">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/az.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ddd.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pricing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lol.css" beforeDir="false" afterPath="$PROJECT_DIR$/lol.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,31 +44,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XOOFRytG9tRI1MPJqWrv2xYxru" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/softuni" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value=" &#9;  npm install jquery" />
     </option>
   </component>
   <component name="SvnConfiguration">
@@ -63,11 +84,25 @@
       <workItem from="1581113297151" duration="47000" />
       <workItem from="1581116121889" duration="870000" />
       <workItem from="1581160293944" duration="166000" />
+      <workItem from="1582303995965" duration="87000" />
+      <workItem from="1587489901816" duration="51000" />
+      <workItem from="1587553472629" duration="2610000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
@@ -85,10 +120,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581113175144" />
-    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1581160458395">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="740" y="287" key="FileChooserDialogImpl" timestamp="1582304083564">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581160458395" />
+    <state x="740" y="287" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1582304083564" />
     <state x="800" y="416" key="Github.ShareDialog" timestamp="1581116568237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -97,9 +133,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="491" y="164" width="938" height="776" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581116540429" />
-    <state x="616" y="250" key="run.anything.popup" timestamp="1581868586771">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="616" y="241" key="run.anything.popup" timestamp="1587554916809">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="616" y="241" key="run.anything.popup/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1587554916809" />
     <state x="616" y="250" key="run.anything.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581868586771" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1581116373469">
       <screen x="0" y="0" width="1920" height="1040" />

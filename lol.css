@@ -65,7 +65,12 @@ p {
 }
 
 .emojiemail:hover, .emojigit:hover {
-    color: #0e3344;
+    color: grey;
+    text-decoration: none;
+}
+
+.emailtext:hover, .githubtext:hover {
+    color: grey;
     text-decoration: none;
 }
 
@@ -85,3 +90,4 @@ img {
     margin-top: auto;
     margin-bottom: auto;
 }
+
