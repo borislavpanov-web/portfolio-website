@@ -25,6 +25,7 @@ p {
 }
 
 .bulgaria:hover {
+    color: grey;
     text-decoration: none;
 }
 

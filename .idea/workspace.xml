@@ -24,7 +24,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a841c8c3-02d3-482a-8204-3dad47e2837e" name="Default Changelist" comment="fixed bugs" />
+    <list default="true" id="a841c8c3-02d3-482a-8204-3dad47e2837e" name="Default Changelist" comment="fixed bugs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lol.css" beforeDir="false" afterPath="$PROJECT_DIR$/lol.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +84,8 @@
       <workItem from="1581160293944" duration="166000" />
       <workItem from="1582303995965" duration="87000" />
       <workItem from="1587489901816" duration="51000" />
-      <workItem from="1587553472629" duration="3180000" />
+      <workItem from="1587553472629" duration="4015000" />
+      <workItem from="1587899696277" duration="920000" />
     </task>
     <task id="LOCAL-00001" summary="fixed bugs">
       <created>1587556163692</created>
@@ -114,6 +120,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed bugs" />
@@ -133,6 +140,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581113175144" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1587558657426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1587558657426" />
     <state x="740" y="287" key="FileChooserDialogImpl" timestamp="1582304083564">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -142,6 +153,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="800" y="416" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581116568237" />
+    <state x="806" y="157" key="RollbackChangesDialog" timestamp="1587556872447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="806" y="157" key="RollbackChangesDialog/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1587556872447" />
     <state x="491" y="164" width="938" height="776" key="SettingsEditor" timestamp="1581116540429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
