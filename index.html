@@ -17,6 +17,10 @@
     <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
+    <script src="https://cdn.jsdelivr.net/npm/baffle@0.3.6/dist/baffle.min.js"></script>
+
+
+
 
 </head>
 <body>
@@ -37,9 +41,37 @@
 <h2>About me</h2>
 <i class="fab fa-js-square fa-6x"></i>
 <img src="az.jpg" alt="Borislav Panov">
-<p>My name is <span style="font-weight: bold"> < Borislav Panov /> </span></p>
-<p>I am from <a class="bulgaria" href="https://goo.gl/maps/VJKjfZ1BEDzNJyyVA">Sandanski, Bulgaria</a></p>
+<p class="line-anim-typewriter">My name is <span class="neshto" style="font-weight: bold"> &lt;Borislav Panov/&gt; </span></p>
+<p class="line-anim-typewriter2">I am from <a class="bulgaria" href="https://goo.gl/maps/VJKjfZ1BEDzNJyyVA">Sandanski, Bulgaria</a></p>
+
 
 </body>
-</html>
+<script type="text/javascript">
+    const text2 = baffle('h2');
+    text2.set({
+        characters : '▒▓░ ▒█▒>█ ░█░▓▓ >██ ░░▓▒▓ █░█▓ ▒<░ █░░/ ░░▓▓',
+        speed: 120
+    });
+    text2.start();
+    text2.reveal(4000);
 
+    const text = baffle('.line-anim-typewriter');
+    text.set({
+        characters : '▒▓░ ▒█▒>█ ░█░▓▓ >██ ░░▓▒▓ █░█▓ ▒<░ █░░/ ░░▓▓',
+        speed: 120
+    });
+    text.start();
+
+    text.reveal(3000);
+
+
+    const text3 = baffle('.line-anim-typewriter2');
+    text3.set({
+        characters : '▒▓░ ▒█▒>█ ░█░▓▓ >██ ░░▓▒▓ █░█▓ ▒<░ █░░/ ░░▓▓',
+        speed: 120
+    });
+    text3.start();
+    text3.reveal(5000);
+
+</script>
+</html>

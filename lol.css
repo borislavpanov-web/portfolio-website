@@ -85,10 +85,9 @@ img {
     border-radius: 50%;
 }
 
-.fa-js-square {
-    position: absolute;
-    margin: 0;
-    margin-top: auto;
-    margin-bottom: auto;
-}
 
+.line-anim-typewriter {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
