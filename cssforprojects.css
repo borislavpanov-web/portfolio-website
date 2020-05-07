@@ -1,0 +1,11 @@
+.typing1 {
+    position: relative;
+    right: 550px;
+    font-size: 0.9em;
+}
+
+.typing2, .typing3, .typing4, .typing5, .typing6 {
+    position: relative;
+    bottom: 280px;
+    right: 550px;
+}
