@@ -25,20 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a841c8c3-02d3-482a-8204-3dad47e2837e" name="Default Changelist" comment="fixed bugs">
-      <change afterPath="$PROJECT_DIR$/cssforprojects.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typedForProjects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/portfolio real.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/portfolio real.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/button.js" beforeDir="false" afterPath="$PROJECT_DIR$/button.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lol.css" beforeDir="false" afterPath="$PROJECT_DIR$/lol.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neshto.js" beforeDir="false" afterPath="$PROJECT_DIR$/neshto.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +91,7 @@
       <workItem from="1587912905088" duration="8280000" />
       <workItem from="1587984284916" duration="5178000" />
       <workItem from="1588429856412" duration="977000" />
-      <workItem from="1588844721054" duration="12009000" />
+      <workItem from="1588844721054" duration="12339000" />
     </task>
     <task id="LOCAL-00001" summary="fixed bugs">
       <created>1587556163692</created>
@@ -120,6 +107,7 @@
     <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
@@ -181,10 +169,10 @@
     </state>
     <state x="491" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1588846169208" />
     <state x="491" y="164" width="938" height="776" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581116540429" />
-    <state x="731" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587556197314">
+    <state x="731" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588864957498">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="731" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1587556197314" />
+    <state x="731" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1588864957498" />
     <state x="616" y="241" key="run.anything.popup" timestamp="1587554916809">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
