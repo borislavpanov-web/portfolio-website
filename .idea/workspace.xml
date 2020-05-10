@@ -25,14 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a841c8c3-02d3-482a-8204-3dad47e2837e" name="Default Changelist" comment="fixed bugs">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cssforprojects.css" beforeDir="false" afterPath="$PROJECT_DIR$/cssforprojects.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lol.css" beforeDir="false" afterPath="$PROJECT_DIR$/lol.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +95,7 @@
       <workItem from="1588844721054" duration="14429000" />
       <workItem from="1588931921361" duration="2997000" />
       <workItem from="1589021790409" duration="5565000" />
-      <workItem from="1589099995926" duration="3318000" />
+      <workItem from="1589099995926" duration="3645000" />
     </task>
     <task id="LOCAL-00001" summary="fixed bugs">
       <created>1587556163692</created>
