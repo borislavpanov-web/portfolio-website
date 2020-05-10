@@ -25,7 +25,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a841c8c3-02d3-482a-8204-3dad47e2837e" name="Default Changelist" comment="fixed bugs">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cssforprojects.css" beforeDir="false" afterPath="$PROJECT_DIR$/cssforprojects.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lol.css" beforeDir="false" afterPath="$PROJECT_DIR$/lol.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +46,7 @@
         <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
@@ -60,7 +68,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
@@ -91,7 +99,10 @@
       <workItem from="1587912905088" duration="8280000" />
       <workItem from="1587984284916" duration="5178000" />
       <workItem from="1588429856412" duration="977000" />
-      <workItem from="1588844721054" duration="12339000" />
+      <workItem from="1588844721054" duration="14429000" />
+      <workItem from="1588931921361" duration="2997000" />
+      <workItem from="1589021790409" duration="5565000" />
+      <workItem from="1589099995926" duration="3318000" />
     </task>
     <task id="LOCAL-00001" summary="fixed bugs">
       <created>1587556163692</created>
@@ -143,6 +154,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581116190818" />
+    <state x="467" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589042770626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="467" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1589042770626" />
     <state x="640" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581113175144">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -151,6 +166,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1587558657426" />
+    <state x="584" y="298" key="EditFileWatcherDialog" timestamp="1588867101858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="584" y="298" key="EditFileWatcherDialog/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1588867101858" />
     <state x="740" y="287" key="FileChooserDialogImpl" timestamp="1582304083564">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -178,9 +197,10 @@
     </state>
     <state x="616" y="241" key="run.anything.popup/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1587554916809" />
     <state x="616" y="250" key="run.anything.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581868586771" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1581116373469">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589106038711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1589106038711" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581116373469" />
   </component>
 </project>

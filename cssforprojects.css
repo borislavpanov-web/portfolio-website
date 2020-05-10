@@ -6,6 +6,27 @@
 
 .typing2, .typing3, .typing4, .typing5, .typing6 {
     position: relative;
-    bottom: 280px;
+    bottom: 210px;
     right: 550px;
+}
+
+.projectWebsite {
+    top: 80px;
+}
+
+
+h2 {
+    font-size: 40px;
+    top: 70px
+}
+
+.text {
+    color: grey;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.text:hover {
+    color: white;
+    text-decoration: none;
 }
